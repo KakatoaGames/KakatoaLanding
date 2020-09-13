@@ -1,5 +1,5 @@
 <template>
-  <div id="cara-bermain" class="bg_image--34 ptb--130 ptb-md--80 ptb-sm--80" style="background-color: #f7f7f7">
+  <div id="cara-bermain" class="bg_image--34 ptb--130 ptb-md--80 ptb-sm--80" style="background-color: #d5d5d5">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-4 col-md-12 col-12">

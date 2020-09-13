@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-12">
-          <div class="hero-content">
+          <div class="hero-content whiteout">
             <h2 class="hero-title">kakatoa Games Network.</h2>
             <h5>Server Minecraft No.1 di Indonesia!</h5>
             <n-link to="#" v-scroll-to="'#tentang'" class="btn-hero-startup">Pelajari Lebih</n-link>
@@ -14,6 +14,13 @@
   </div>
 </template>
 <style lang="scss" scoped>
+.whiteout {
+  background-color: rgba($color: #FFFFFF, $alpha: 0.45);
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-bottom: 1em;
+  padding-right: 1em;
+}
 .hero-startup {
   height: 100vh;
   display: flex;
