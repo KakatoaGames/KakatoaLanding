@@ -3,7 +3,7 @@
 ======================*/
 
 /**************************************************************
-	
+
 	STYLESHEET INDEXING
 	|
 	|___ Default Styles
@@ -42,12 +42,12 @@
 	|	|___ contagion
 	|	|___ player
 	|	|___ 404
-	|	
+	|
 	|
 	|
 	|___Components Styles
-	|	|___ video 
-	|	|___ breadcrumb 
+	|	|___ video
+	|	|___ breadcrumb
 	|	|___ instagram
 	|	|___ popup
 	|	|___ shopping-cart
@@ -68,8 +68,8 @@
 	|
 	|
 	|___Portfolio Styles
-	|	|___ portfolio-grid 
-	|	|___ portfolio-grid-metro 
+	|	|___ portfolio-grid
+	|	|___ portfolio-grid-metro
 	|	|___ portfolio-caption
 	|	|___ mesonry-button
 	|	|___ paralax
@@ -80,8 +80,8 @@
 	|
 	|
 	|___Blog Grid Styles
-	|	|___ blod-grid 
-	|	|___ pagination 
+	|	|___ blod-grid
+	|	|___ pagination
 	|	|___ blog-mesonry
 	|	|___ blog-grid-no-flex
 	|	|___ blog-grid-minimal
@@ -91,8 +91,8 @@
 	|
 	|
 	|___Shop Sidebar Styles
-	|	|___ shop-sidebar 
-	|	|___ single-product 
+	|	|___ shop-sidebar
+	|	|___ single-product
 	|	|___ cart
 	|	|___ checkout
 	|	|___ compare
@@ -161,76 +161,34 @@
 =====================================*/
 @import 'elements/button';
 @import 'elements/section-title';
-@import 'elements/service';
 @import 'elements/counterup';
-@import 'elements/team';
 @import 'elements/brand';
 @import 'elements/blog-list';
 @import 'elements/contact';
 @import 'elements/about';
-@import 'elements/call-to-action';
-@import 'elements/swiper-arrow';
-@import 'elements/motivational-archive';
 @import 'elements/social';
-@import 'elements/shortnote';
+@import 'elements/swiper-arrow';
 @import 'elements/flexable-image-slide';
 @import 'elements/carousel-slider';
-@import 'elements/progress-charts';
-@import 'elements/gallery';
 @import 'elements/gradation';
-@import 'elements/career';
 @import 'elements/contagion';
-@import 'elements/testimonial';
 @import 'elements/tabs';
 
 
 /*================================
 	Components Style
 =================================*/
-@import 'components/video';
 @import 'components/breadcrumb';
-@import 'components/instagram';
 @import 'components/popup';
 @import 'components/mega-menu';
 @import 'components/typography';
 @import 'components/list';
-@import 'components/pricing-box';
 @import 'components/icon-boxes';
 @import 'components/dividers';
 @import 'components/message-box';
 @import 'components/accordion';
-@import 'components/googlemap';
 @import 'components/rows-column';
 @import 'components/info-boxes';
-
-
-/*==================================
-	Portfolio Styles
-===================================*/
-@import 'portfolio/portfolio-grid';
-@import 'portfolio/portfolio-grid-metro';
-@import 'portfolio/portfolio-caption';
-@import 'portfolio/masonry-button';
-@import 'portfolio/has-center';
-@import 'portfolio/type-hover';
-@import 'portfolio/portfolio-details';
-
-
-/*=====================================
-	Blog Grid Styles
-======================================*/
-@import 'blog-grid/blog-grid';
-@import 'blog-grid/pagination';
-@import 'blog-grid/blog-grid-no-flex';
-@import 'blog-grid/blog-grid-minimal';
-@import 'blog-grid/blog-details';
-@import 'blog-grid/blog-sidebar';
-
-
-/*====================================
-	Shop Sidebar Styles
-=====================================*/
-@import 'shop/table-form';
 
 
 /*=================================
@@ -239,19 +197,12 @@
 @import 'template/header';
 @import 'template/sidebar-header';
 @import 'template/feature';
-@import 'template/startup-service';
-@import 'template/freelancer';
 @import 'template/hamber-menu';
-@import 'template/left-vertical-header';
 @import 'template/fullscreen-slider';
 @import 'template/sidebar-mobilemenu';
-@import 'template/onepage';
-@import 'template/portfolio-slide';
 @import 'template/photo-slide';
-@import 'template/vertical-slide';
-@import 'template/musician';
-@import 'template/product';
 @import 'template/footer';
+@import 'template/onepage';
 
 
 /*================================

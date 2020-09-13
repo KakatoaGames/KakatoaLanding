@@ -1,7 +1,7 @@
 //===== Colors =====//
 
-$theme-color: #0038E3;
-$theme-color-2: #0069FF;
+$theme-color: #a90001;
+$theme-color-2: #cd0203;
 
 $bg-grey-23: #FBFBFD;
 $secondary-color: #FF5EE1;
@@ -58,7 +58,7 @@ $font-8: 'Comic Sans MS';
 // Template Font List
 $fontList: $font-1, $font-2, $font-3, $font-4, $font-5, $font-6, $font-7, $font-8;
 
-/*================================================ 
+/*================================================
  font-family: 'Poppins', sans-serif;
  font-family: 'Permanent Marker', cursive;
  font-family: 'Playfair Display', serif;
@@ -203,7 +203,7 @@ $small-mobile: 'only screen and (max-width: 479px)';
         max-width: 450px;
     }
 }
- 
+
 @media #{$small-mobile} {
     .container {
         max-width: 320px;
