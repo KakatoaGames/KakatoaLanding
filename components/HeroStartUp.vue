@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-12">
           <div class="hero-content ">
-            <h2 class="hero-title">kakatoa Games Network.</h2>
+            <h2 class="hero-title">Kakatoa Games Network.</h2>
             <h5>Server Minecraft No.1 di Indonesia!</h5>
             <n-link to="#" v-scroll-to="'#tentang'" class="btn-hero-startup">Pelajari Lebih</n-link>
           </div>
