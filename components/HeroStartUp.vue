@@ -5,7 +5,7 @@
         <div class="col-12">
           <div class="hero-content ">
             <h2 class="hero-title">Kakatoa Games Network.</h2>
-            <h5>Server Minecraft No.1 di Indonesia!</h5>
+            <h5>Creativity Beyond Imagination</h5>
             <n-link to="#" v-scroll-to="'#tentang'" class="btn-hero-startup">Pelajari Lebih</n-link>
           </div>
         </div>
@@ -46,9 +46,10 @@
   }
 
   .hero-content {
-    max-width: 500px;
+    max-width: 800px;
 
     .hero-title {
+      font-family: "Bahnschrift Regular";
       font-size: 55px;
       font-weight: 600;
       color: #a90001;

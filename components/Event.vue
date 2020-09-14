@@ -12,7 +12,7 @@
         </div>
         <div class="col-lg-5 mt_md--40 mt_sm--40">
           <div class="video-content move-up wow">
-            <h3 class="heading heading-h3 line-height-1-42">Lustrum 60 <br> Institut Teknologi Sepuluh Nopember</h3>
+            <h3 class="heading heading-h3 line-height-1-42">Lustrum XII <br> Institut Teknologi Sepuluh Nopember</h3>
             <div class="bkseparator--25"></div>
             <p class="bk_pra">Event pertama menggunakan model kampus ITS di Indonesia yang dibuat dengan minecraft
               menggunakan skala bangunan 1:1 pada server kami.</p>
