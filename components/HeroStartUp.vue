@@ -52,18 +52,19 @@
       font-family: "Bahnschrift Regular";
       font-size: 55px;
       font-weight: 600;
-      color: #a90001;
+      color: #ffffff;
       // res
       @media #{$sm-layout}{
         font-size: 40px;
       }
       @media #{$small-mobile}{
+        color: #000000;
         font-size: 32px;
       }
     }
 
     h5 {
-      color: #ffffff;
+      color: #efefef;
       font-size: 20px;
       font-weight: 600;
       line-height: 2;
